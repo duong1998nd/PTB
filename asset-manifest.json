@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PTB/static/css/main.0057081b.css",
+    "main.js": "/PTB/static/js/main.cbb911ce.js",
+    "index.html": "/PTB/index.html",
+    "main.0057081b.css.map": "/PTB/static/css/main.0057081b.css.map",
+    "main.cbb911ce.js.map": "/PTB/static/js/main.cbb911ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0057081b.css",
+    "static/js/main.cbb911ce.js"
+  ]
+}
